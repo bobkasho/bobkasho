@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bobkasho
 - 👀 I’m interested in Ubuntu, Python, Ruby, Blockchane, MySQL, PHP, HTML, CSS, make computer systems
-- 🌱 I’m currently learning Python & Ubuntu
+- 🌱 I’m currently learning Python, Ruby & Ubuntu
 - 💞️ I’m looking to collaborate on Pyton & Ruby developers (UA, ru)
 - 📫 How to reach me @bobkyiv (Telegram)
 
